@@ -1,1 +1,15 @@
-# Biological and Medical Informatics
+site_name: BioInformation
+site_url: https://github.com/WonyoungCho/BI
+site_description: Biological and Medical Informatics
+repo_url: https://github.com/WonyoungCho/BI/
+site_author: Wonyoung Cho
+
+extra_javascript: [docs.js]
+
+pages:
+    - Home: 'index.md'
+    - Biology: 
+        - 'Reference' : 'reference.md'
+        - 'Paper' : 'paper.md'
+    
+theme: readthedocs
