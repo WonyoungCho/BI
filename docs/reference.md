@@ -1,5 +1,5 @@
 # YouTube
 
 - DNA transcription and translation
-> <https://www.youtube.com/watch?v=2BwWavExcFI>
+> <a href="https://www.youtube.com/watch?v=2BwWavExcFI" target="_blank">https://www.youtube.com/watch?v=2BwWavExcFI </a> 
 
