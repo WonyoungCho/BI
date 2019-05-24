@@ -1,1 +1,1 @@
-# Collection
+# Biological and Medical Informatics
