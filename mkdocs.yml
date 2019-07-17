@@ -8,7 +8,7 @@ extra_javascript: [docs.js]
 
 pages:
     - Home: 'index.md'
-    - Biology: 
+    - Biology: 'biology.md'
         - 'Reference' : 'reference.md'
         - 'Paper' : 'paper.md'
     
