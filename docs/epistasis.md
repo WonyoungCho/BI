@@ -21,26 +21,26 @@ Some variant are in disequilibrium.
 - p-value가 높은 것부터 정렬하고, p-value가 낮아질 수록 엄격한 alpha값을 적용함.
 
 
-# T-test
+## T-test
 - n < 30
 - Used to compare two means or proportions
 - Unknown standard deviation
 
-# Wilcoxon Signed-Rank test
+## Wilcoxon Signed-Rank test
 - n < 30
 - Unknown distribution
 - Unable to adjust to normal distribution
 - Use median
 
-# Z-test
+## Z-test
 - n >= 30
 - Normal distribution
 - Known standard deviation
 
-# Permutation test
+## Permutation test
 
 
-# Bootstrap
+## Bootstrap
 
 
 # Linkage Disequilibrium
