@@ -14,7 +14,7 @@ Some variant are in disequilibrium.
 
 # Multiple comparison test
 ## Bonferroni correction
-- 개별적인 SNP가 모두 독립적으로 관여하는 경우에는 N으로 낭눌 수 있지만 많은 SNP는 LD block 내에 서로 연관되어 있기 때문에 N으로 나누면 너무 엄격하게 적용됨.
+- 개별적인 SNP가 모두 독립적으로 관여하는 경우에는 N으로 눌 수 있지만 많은 SNP는 LD block 내에 서로 연관되어 있기 때문에 N으로 나누면 너무 엄격하게 적용됨.
 
 ## FDR (false discovery rate)
 - FDR = false positive / total positive
