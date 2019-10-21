@@ -9,6 +9,7 @@
 # Single variant test
 ## Hardy-Weinberg eq test
 Some variant are in disequilibrium.
+
 - Heterozygote excess : 생존에 이로울 경우 발생할 수 있지만 정상적인 시료에는 두 대립 유전자형의 분리가 제대로 이루어지지 않은 genotyping error.
 - homozygote excess : 이질적인 집단의 시료가 사용되었거나 특정 homozygote 가 치사(null allele)를 유발하여 실제 집단에서는 그 유전형이 존재하지 않는 경우가 있으나 정상적인 집단의 시료가 사용되었다면 두 대립 유전자형 중에서 특정 유전자형의 genotyping error (allele dropout).
 
