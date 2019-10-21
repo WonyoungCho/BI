@@ -45,4 +45,4 @@ Some variant are in disequilibrium.
 
 # Linkage Disequilibrium
 - Non-random association of allele at different loci in a given population.
-
+- R2 is nothing but Pearson's correlation coefficient. That is, the covariance of two variables by product of their standard deviations. [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#For_a_population)
